@@ -83,3 +83,12 @@ max-width: 500px;
 border-radius: 10px;
 background-color: #FFF8F3;
 margin:130px ;}
+
+/* main section styles */
+
+main{max-width: 1150px;
+margin: 0 auto;}
+.about-info-container{display: flex;
+justify-content: space-around;
+}
+.about-info{text-align: center;}
