@@ -169,7 +169,25 @@ height: 780px;
 background: #FFF8F3;
 padding: 130px 200px;
 display: flex;
-margin-top: 100px ;}
+margin-top: 100px ;
+gap: 100px;}
+.footer-colum{width: 50%;}
+.contact input[type="text"],
+.contact input[type="email"],
+
+textarea{display: block;
+margin-bottom: 25px;
+padding: 20px 35px;
+color:#757575;
+font-size: 16px;
+font-weight: 400;
+border: 0;
+width: 100%;
+border-radius: 5px;
+background:#FFF;
+}
+.social-media a {margin: 25px;
+}
 
 
  
