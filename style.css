@@ -162,3 +162,14 @@ font-size: 20px;
 font-weight: 700;
 padding: 10px 30px;
 margin-top: 50px;}
+
+footer{
+width: 1600px;
+height: 780px;
+background: #FFF8F3;
+padding: 130px 200px;
+display: flex;
+margin-top: 100px ;}
+
+
+ 
