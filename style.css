@@ -46,10 +46,14 @@ font-weight: 700;
 padding: 10px 30px;}
 
 /* header related style  */
-.header{background-color:#FFF8F3;
-background-image: url(images/header_bg.png);
-background-position: bottom right;
-background-repeat: no-repeat;}
+.header{background-image:  url('../images/header_bg.png'), url(images/developer.png) ;
+ background-repeat: no-repeat;
+  background-position: bottom right,top left;
+
+ 
+  
+  background-color:#FFF8F;
+}
 
 
 .banner{padding: 50px 30px 0px 150px;
